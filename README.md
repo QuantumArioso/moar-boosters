@@ -40,5 +40,7 @@ Need:
 
 ### Found Results
 
+- drag has a large effect on our rocket (this might be due to the game engine itself, people say ksp has unrealistically high drag)
+- show our results from ksp, and how it compared to our calculations
 
 ### Discrepancies Between Expected and Actual
