@@ -27,6 +27,8 @@ Need:
 
 ### Expected Results
 
+- we want our predicted max height to match the actual max height in game
+- we want the same for max velocity
 
 ### Methods Used
 
