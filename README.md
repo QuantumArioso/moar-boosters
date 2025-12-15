@@ -16,6 +16,4 @@ Need:
 
 #### Export Data:
 [**KSP Data Export**](https://spacedock.info/mod/2711)
-
-
-### Gravity Turns:
+- successfully used mod to collect thrust data
