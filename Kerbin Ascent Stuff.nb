@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[    248537,       4995]
-NotebookOptionsPosition[    239784,       4838]
-NotebookOutlinePosition[    240175,       4854]
-CellTagsIndexPosition[    240132,       4851]
+NotebookDataLength[    248640,       4998]
+NotebookOptionsPosition[    239887,       4841]
+NotebookOutlinePosition[    240278,       4857]
+CellTagsIndexPosition[    240235,       4854]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -4810,28 +4810,31 @@ Cell[BoxData[{
   3.974817368222753*^9}, {3.974817731543833*^9, 3.974817736187743*^9}, {
   3.974817962532041*^9, 3.974817976593265*^9}, {3.9748181479477777`*^9, 
   3.974818179936371*^9}, {3.974818948774382*^9, 3.9748189642831573`*^9}},
- CellLabel->"In[98]:=",ExpressionUUID->"0cf32a9b-a6ff-4b2d-9781-12a742180c0b"],
+ CellLabel->
+  "In[100]:=",ExpressionUUID->"0cf32a9b-a6ff-4b2d-9781-12a742180c0b"],
 
 Cell[BoxData["43586.11566672486`"], "Output",
  CellChangeTimes->{{3.97481735011516*^9, 3.97481735859488*^9}, 
    3.974817736839559*^9, 3.974817981343335*^9, {3.9748181571486273`*^9, 
-   3.974818180493722*^9}, 3.974818978717908*^9},
- CellLabel->"Out[98]=",ExpressionUUID->"9ca802ed-bbe1-4551-bcc2-14affdaf84bd"],
+   3.974818180493722*^9}, 3.974818978717908*^9, 3.97481906145503*^9},
+ CellLabel->
+  "Out[100]=",ExpressionUUID->"148baee6-90f2-4e77-9476-b235e8c39b97"],
 
 Cell[BoxData["794.1624747216315`"], "Output",
  CellChangeTimes->{{3.97481735011516*^9, 3.97481735859488*^9}, 
    3.974817736839559*^9, 3.974817981343335*^9, {3.9748181571486273`*^9, 
-   3.974818180493722*^9}, 3.974818978722129*^9},
- CellLabel->"Out[99]=",ExpressionUUID->"e43a0c24-9872-4bf0-871c-fbdf04eac1fc"]
+   3.974818180493722*^9}, 3.974818978717908*^9, 3.974819061457077*^9},
+ CellLabel->
+  "Out[101]=",ExpressionUUID->"6def30b0-0201-404a-bd3a-64579b42c916"]
 }, Open  ]],
 
 Cell["\<\
-The max altitude reached was 6781 meters, and the max velocity reached was \
-395 m/s.\
+The max altitude reached was 59436 meters, and the max velocity reached was \
+1100 m/s.\
 \>", "Text",
  CellChangeTimes->{{3.974817684825582*^9, 3.974817696659788*^9}, {
-  3.974818048725728*^9, 
-  3.974818076973394*^9}},ExpressionUUID->"c0c451a2-2c14-47f9-9e53-\
+  3.974818048725728*^9, 3.974818076973394*^9}, {3.974819126207933*^9, 
+  3.974819133089841*^9}},ExpressionUUID->"c0c451a2-2c14-47f9-9e53-\
 f70bd458b5c1"]
 }, Open  ]]
 }, Open  ]]
@@ -4990,11 +4993,11 @@ Cell[237438, 4778, 332, 7, 33, "Text",ExpressionUUID->"8891847f-0b17-4924-91d0-b
 Cell[CellGroupData[{
 Cell[237807, 4790, 255, 4, 53, "Subsection",ExpressionUUID->"74c61111-1cb9-4d23-85b3-f9ac1dcdcf04"],
 Cell[CellGroupData[{
-Cell[238087, 4798, 744, 14, 49, "Input",ExpressionUUID->"0cf32a9b-a6ff-4b2d-9781-12a742180c0b"],
-Cell[238834, 4814, 310, 4, 33, "Output",ExpressionUUID->"9ca802ed-bbe1-4551-bcc2-14affdaf84bd"],
-Cell[239147, 4820, 310, 4, 52, "Output",ExpressionUUID->"e43a0c24-9872-4bf0-871c-fbdf04eac1fc"]
+Cell[238087, 4798, 748, 15, 49, "Input",ExpressionUUID->"0cf32a9b-a6ff-4b2d-9781-12a742180c0b"],
+Cell[238838, 4815, 335, 5, 33, "Output",ExpressionUUID->"148baee6-90f2-4e77-9476-b235e8c39b97"],
+Cell[239176, 4822, 336, 5, 33, "Output",ExpressionUUID->"6def30b0-0201-404a-bd3a-64579b42c916"]
 }, Open  ]],
-Cell[239472, 4827, 284, 7, 33, "Text",ExpressionUUID->"c0c451a2-2c14-47f9-9e53-f70bd458b5c1"]
+Cell[239527, 4830, 332, 7, 33, "Text",ExpressionUUID->"c0c451a2-2c14-47f9-9e53-f70bd458b5c1"]
 }, Open  ]]
 }, Open  ]]
 }
