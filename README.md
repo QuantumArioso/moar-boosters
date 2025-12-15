@@ -17,3 +17,21 @@ Need:
 #### Export Data:
 [**KSP Data Export**](https://spacedock.info/mod/2711)
 - successfully used mod to collect thrust data
+
+## Presentation Notes
+
+### Topic Description
+
+- finding the simplest and fastest to 10,000 m altitude?
+- we calculated the rocket trajectories, then collected data to see if they matched
+
+### Expected Results
+
+
+### Methods Used
+
+
+### Found Results
+
+
+### Discrepancies Between Expected and Actual
