@@ -34,7 +34,7 @@ Need:
 
 ### Methods Used
 
-- used formulas in Mathematica that were sourced from a definitive book on rocket science, with the calculus pre-done
+- used formulas in Mathmatica that were sourced from a definitive book on rocket science, with the calculus pre-done
 - used a mod to pull in-game data while we ran the simulation
 - used the thrust and pressure curves to decide what numbers to use for ISP and thrust based on the altitudes traversed
 
@@ -44,3 +44,6 @@ Need:
 - show our results from ksp, and how it compared to our calculations
 
 ### Discrepancies Between Expected and Actual
+
+- we plan on showing the difference between predicted and actual data, which in some situations ended up being rather large.
+- we decided that the discrepancies were there because of drag
